@@ -57,7 +57,7 @@ def draw():
 
 
 def game_over():
-    global running, WIDTH, HEIGHT
+    global WIDTH, HEIGHT
     game_over_sound.play()
     win.blit(game_over_img, ((WIDTH / 2) - 215, (HEIGHT / 2) - 206))
     pygame.display.flip()

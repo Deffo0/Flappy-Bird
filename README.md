@@ -20,5 +20,5 @@ Flappy Bird is a classic side-moving game that challenges players to navigate a 
 
 ## Screenshots
 
-![preview](https://raw.githubusercontent.com/Deffo0/Flappy-bird/main/Resources/preview.png?token=GHSAT0AAAAAACAXNWXOHXOUNW5WPGP2FA6GZBPKWCQ)
+![preview](https://raw.githubusercontent.com/Deffo0/Flappy-bird/main/Resources/preview.png?token=GHSAT0AAAAAACAXNWXPYBV5EYPVEXRXFNDSZBP3LMA)
 

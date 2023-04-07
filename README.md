@@ -2,7 +2,8 @@
 Flappy Bird is a classic side-moving game that challenges players to navigate a bird through an endless series of obstacles by flapping its wings to avoid pipes.
 
 ## Features
-- Flapping using spacekey
+- Flapping using space key
+- Bird animation
 - Getting points from avoiding obstacles
 - Game Over
 
